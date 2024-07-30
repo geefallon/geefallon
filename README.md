@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with anyone who can help me!
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I enjoy indulging in the b rated movies with terrible ratings
+- ⚡ Fun fact: I enjoy indulging in b rated movies with terrible ratings
 
 <!---
 geefallon/geefallon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
